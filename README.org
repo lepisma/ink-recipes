@@ -1,0 +1,7 @@
+#+TITLE: ink-recipes
+
+Recipes for fountain pen---and maybe other---inks that I develop.
+
+I am a beginner in this and collaborate with my friend to experiment and learn
+the art of making colors. You should expect learning notes to show up in
+changelogs and versions of various inks that are kept here.
