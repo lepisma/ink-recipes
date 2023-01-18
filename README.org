@@ -5,3 +5,25 @@ Recipes for fountain pen---and maybe other---inks that I develop.
 I am a beginner in this and collaborate with my friend to experiment and learn
 the art of making colors. You should expect learning notes to show up in
 changelogs and versions of various inks that are kept here.
+
+There is a versioning convention that I will follow. Every ink starts with a
+~v0.0.1~ by default. That marks both the level of maturity of the process for that
+specific color and the unknowns around stability of the produce. As an ink
+becomes stable and usable for regular use, it gets the first ~v1.0.0~ release.
+
+The major release will have the following properties:
+
+1. It maintains form in container for at least a month.
+2. The color is stable on paper for at least a month.
+
+There might be unknown artifacts that get discovered later on like staining pens
+etc. Those will be fixed in later versions.
+
+Patch versions (say from ~v1.2.0~ to ~v1.2.1~) are upgrades for non-functional
+reasons like consistency, stability etc. Minor versions are for changes that
+take the color close to the original sentiments around the goal. Major
+deviations call for a different ink altogether.
+
+I understand that there won't be a lot of releases and inks will get stabilized
+pretty soon after hitting ~v1.0.0~. Still, as an experimenter, I would like to
+maintain versions with changelogs for whatever I can.
